@@ -21,5 +21,7 @@ Step 2 : npm run dev
 
 ![image](https://github.com/user-attachments/assets/78eb6ba2-0726-4728-925f-a3994c53684c)
 
+![image](https://github.com/user-attachments/assets/9d64bb0b-5c67-4efd-aec6-69d071115ead)
+
 contact us : 
 mail id : faizanahmed5098k@gmail.com
